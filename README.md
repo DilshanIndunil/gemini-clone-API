@@ -77,6 +77,9 @@ gemini-clone/
 ```
 
 
+![gemini-clone](https://github.com/DilshanIndunil/gemini-clone-API/assets/163544478/ee09ec7f-af26-4810-9c8f-164645f83368)
 
 
+
+![chatbox](https://github.com/DilshanIndunil/gemini-clone-API/assets/163544478/47e7da95-c271-4770-9a34-caaa1e33e2d1)
 
